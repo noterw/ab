@@ -1,4 +1,4 @@
 <?php
-header("Location: https://teamarketonline.com/");
+header("Location: https://formcrtl1.wixsite.com/website");
 die();
 ?>
